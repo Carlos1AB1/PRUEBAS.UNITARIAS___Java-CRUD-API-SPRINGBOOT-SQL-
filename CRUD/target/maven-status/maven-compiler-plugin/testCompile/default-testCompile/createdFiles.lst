@@ -1,0 +1,4 @@
+com\example\CRUD\CrudApplicationTests.class
+com\example\CRUD\StudentRepositoryTest.class
+com\example\CRUD\StudentControllerTest.class
+com\example\CRUD\StudentServiceTest.class
